@@ -38,9 +38,9 @@ export default function QuemEThomas() {
               }}
             >
               <picture style={{ display: 'contents' }}>
-                <source srcSet="/assets/thomas-speroni.avif" type="image/avif" />
+                <source srcSet={`${import.meta.env.BASE_URL}assets/thomas-speroni.avif`} type="image/avif" />
                 <img
-                  src="/assets/thomas-speroni.avif"
+                  src={`${import.meta.env.BASE_URL}assets/thomas-speroni.avif`}
                   alt="Thomas Speroni, psicanalista e psicólogo"
                   width={420}
                   height={560}
