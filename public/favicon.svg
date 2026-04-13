@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <!-- Fundo editorial escuro -->
+  <rect width="32" height="32" fill="#1C1917"/>
+  <!-- Linha terracota — acento da identidade visual -->
+  <rect x="7" y="27.5" width="18" height="1.5" fill="#A0522D"/>
+  <!-- T em estilo Playfair Display -->
+  <text
+    x="16"
+    y="25"
+    font-family="'Playfair Display', 'Georgia', 'Times New Roman', serif"
+    font-size="23"
+    font-weight="400"
+    fill="#F0EBE1"
+    text-anchor="middle"
+    dominant-baseline="auto"
+    letter-spacing="-0.5"
+  >T</text>
+</svg>
